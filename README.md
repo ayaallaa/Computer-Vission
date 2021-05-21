@@ -3,7 +3,7 @@
 ### Computer Vision Functions
 
 1. Add additive noise to the image.
-    * For example: Uniform, Gaussian and salt & pepper noise.
+    *  Uniform, Gaussian and salt & pepper noise.
 2. Filter the noisy image using the following low pass filters.
     * Average, Gaussian and median filters.
 3. Detect edges in the image using the following masks
